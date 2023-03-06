@@ -1,4 +1,4 @@
-package com.xdzhouxin.singleton;
+package com.xdzhouxin;
 
 /**
  * 饿汉式加载，线程安全

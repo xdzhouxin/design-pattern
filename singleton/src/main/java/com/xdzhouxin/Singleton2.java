@@ -1,4 +1,4 @@
-package com.xdzhouxin.singleton;
+package com.xdzhouxin;
 
 /**
  * 懒汉式，非线程安全，用到时才加载

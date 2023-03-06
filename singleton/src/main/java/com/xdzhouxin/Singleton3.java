@@ -1,4 +1,4 @@
-package com.xdzhouxin.singleton;
+package com.xdzhouxin;
 
 /**
  * 双重检测
