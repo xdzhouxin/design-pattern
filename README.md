@@ -16,9 +16,8 @@ Java语言实现的23种设计模式
 
 关注于对象的组成以及对象之间的依赖关系，描述如何将类或者对象结合在一起形成更大的结构，就像搭积木，可以通过简单积木的组合形成复杂的、功能更为强大的结构。
 
-- [适配者模式](https://github.com/xdzhouxin/design-pattern/tree/master/adaper)
-* 适配器模式
-* 装饰者模式
+- [适配者模式](https://github.com/xdzhouxin/design-pattern/tree/master/adapter)
+- [装饰器模式](https://github.com/xdzhouxin/design-pattern/tree/master/decorator)
 * 代理模式
 * 外观模式
 * 桥接模式
